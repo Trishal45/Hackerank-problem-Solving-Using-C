@@ -17,7 +17,7 @@ int main(){
             p++;
         else if(b[i]>a[i])
             q++;
-    }
+        git }
     printf("%d %d",p,q);
     return 0;
 }
